@@ -11,13 +11,6 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <Compile Remove="Interfaces\Mutations\**" />
-    <Content Remove="Interfaces\Mutations\**" />
-    <EmbeddedResource Remove="Interfaces\Mutations\**" />
-    <None Remove="Interfaces\Mutations\**" />
-  </ItemGroup>
-
-  <ItemGroup>
     <PackageReference Include="Microsoft.AspNetCore.SpaProxy">
       <Version>8.*-*</Version>
     </PackageReference>
@@ -33,7 +26,6 @@
   <ItemGroup>
     <Folder Include="Data\" />
     <Folder Include="Migrations\" />
-    <Folder Include="Mutations\" />
     <Folder Include="Types\" />
     <Folder Include="Schemas\" />
     <Folder Include="Queries\" />

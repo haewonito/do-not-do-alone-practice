@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("do-not-do-alone-practice.Server")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9a3e7ac1eaff8f93a7965a08df6a672f658628ae")]
 [assembly: System.Reflection.AssemblyProductAttribute("do-not-do-alone-practice.Server")]
 [assembly: System.Reflection.AssemblyTitleAttribute("do-not-do-alone-practice.Server")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
