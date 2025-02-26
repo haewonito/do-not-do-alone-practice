@@ -1,0 +1,10 @@
+{
+"SpaProxyServer": {
+"ServerUrl": "https://localhost:56086",
+"RedirectUrl": "",
+"LaunchCommand": "npm run dev",
+"WorkingDirectory": "C:\\Users\\HaewonJeon\\source\\repos\\do-not-do-alone-practice\\do-not-do-alone-practice.Server\\..\\do-not-do-alone-practice.client",
+"MaxTimeoutInSeconds": "120",
+"KeepRunning": "false"
+}
+}
